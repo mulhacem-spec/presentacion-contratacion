@@ -1,0 +1,23 @@
+# Editor de código
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Dependencias (si se añaden en el futuro)
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Archivos temporales
+temp/
+tmp/
